@@ -1,0 +1,12 @@
+hjkl
+gfdsa
+Your IP address and number.
+twitter
+questions
+zoom
+execution
+#bottom up
+
+(x+y)*(c-d/2)
+x-(a1-b)? true:false;
+(a<b)&(b<c)
